@@ -63,9 +63,9 @@
 <br>
 
 <div align="center">  
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=SergioS0ares&show_icons=true&count_private=true&hide_border=true&theme=dracula&border_radius=8" alt="GitHub Stats" />
+  <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SergioS0ares&theme=dracula&hide_border=true&border_radius=8" alt="GitHub Streak" />
   
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioS0ares&layout=compact&hide_border=true&theme=dracula&border_radius=8&count_private=true" alt="Top Languages" />
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioS0ares&layout=compact&hide_border=true&theme=dracula&border_radius=8" alt="Top Languages" />
 </div>
 
 <br>
@@ -77,7 +77,7 @@
 <br>
 <div align="center">
   <p align="center"><b>Contador de Visitas / Visitors Count</b></p>  
-  <img src="https://visitcount.itsvg.in/api?id=SergioS0ares&icon=10&color=bd93f9" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=SergioS0ares&label=PROFILE+VIEWS&style=flat-square&color=bd93f9" alt="Visitors" />
 </div>
 <br>
 
