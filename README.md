@@ -1,69 +1,21 @@
-![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Sérgio%20Soares&fontSize=50&animation=fadeIn&fontAlignY=35)
+# 💫 About Me:
+### 👋 About Me<br><br>- 🔭 **I’m currently working on**<br>  > O desenvolvimento do **Macarola** (um SaaS privado para gestão de ateliês com IA) e scripts de automação em Python (como o *Barber Sheet Generator*).<br><br>- 👯 **I’m looking to collaborate on**<br>  > Projetos inovadores que utilizem **Java (Spring Boot)** e **Angular**, especialmente aqueles focados em regras de negócio complexas.<br><br>- 🤝 **I’m looking for help with**<br>  > Arquitetura de Software escalável e boas práticas de DevOps/Cloud para deploy de aplicações Java.<br><br>- 🌱 **I’m currently learning**<br>  > Aprofundando em **Segurança de Aplicações** (Spring Security/JWT) e integração de **IA Generativa** (Gemini API) em sistemas corporativos.<br><br>- 💬 **Ask me about**<br>  > Desenvolvimento Fullstack (Java & Angular), automação de processos, APIs RESTful e... como criar Mods para Minecraft Bedrock!<br><br>- ⚡ **Fun fact**<br>  > Além de codar sistemas complexos, eu crio meus próprios addons e jukeboxes personalizadas no Minecraft nas horas vagas 🎮.
 
-<div align="center">
-  <a href="https://komarev.com/ghpvc/?username=SergioS0ares">
-    <img src="https://komarev.com/ghpvc/?username=SergioS0ares&color=blueviolet&style=flat-square&label=Profile+Views" alt="SergioS0ares Views" />
-  </a>
-</div>
 
-<br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sergio-soares-eng/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sergiosoares0226@gmail.com) 
 
-<div align="center">
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SergioS0ares&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SergioS0ares&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioS0ares&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🇧🇷 Bem-vindo ao meu GitHub! / 🇺🇸 Welcome to my GitHub!
-
-Sou um desenvolvedor focado em construir soluções eficientes, desde o back-end ao front-end. Trabalhando atualmente em projetos com **Java, Spring, TypeScript e Angular** (como meu sistema de entregas de Marmitas!).
-<br>
-*I'm a developer focused on building efficient solutions, from back-end to front-end. Currently working on projects with **Java, Spring, TypeScript, and Angular** (like my meal delivery system!).*
-
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=SergioS0ares&icon=10&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Tecnologias | Technologies
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
-
-<br>
-
----
-
-### 📊 Minhas Estatísticas | My Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SergioS0ares&theme=dracula&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SergioS0ares&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioS0ares&layout=compact&langs_count=6&theme=dracula&hide_border=true" width="48%" />
-</div>
-
-<br>
-
----
-
-### 📫 Contato | Contact
-
-<div align="center">
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
