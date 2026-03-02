@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sergio-soares-eng/" target="_blank">
+  <a href="https://www.linkedin.com/in/sergio-soares-eng/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:sergiosoares0226@gmail.com">
@@ -57,7 +57,7 @@
 ### 📊 GitHub Analytics (Vermelho!)
 
 <div align="center">  
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SergioS0ares&bg_color=0d1117&color=f85149&line=ff4444&point=f85149&area=true&hide_border=true&border_radius=8" alt="Sérgio's Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SergioS0ares&bg_color=0d1117&color=dd0031&line=ff4444&point=dd0031&area=true&hide_border=true&border_radius=8" alt="Sérgio's Activity Graph" />
 </div>
 
 <br>
@@ -70,14 +70,14 @@
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
 </div>
 
+<br>
 <div align="center">
-<br>
-<p align="center"><b>Contador de Visitas / Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SergioS0ares}/count.svg" alt="Visitors" /></p> 
-<br>
+  <p align="center"><b>Contador de Visitas / Visitors Count</b></p>  
+  <img src="https://visitcount.itsvg.in/api?id=SergioS0ares&icon=10&color=f85149" alt="Visitors" />
 </div>
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=dd0031,ed8b00&height=120&section=footer"/>
