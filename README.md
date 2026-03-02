@@ -62,16 +62,13 @@
 
 <br>
 
-<div align="center">  
-  <img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SergioS0ares&theme=dracula&hide_border=true&border_radius=8" alt="GitHub Streak" />
-  
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioS0ares&theme=dracula&hide_border=true&layout=donut&card_width=380&border_radius=8" alt="Top Languages" />
-</div>
-
-<div align="center">  
-  <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SergioS0ares&theme=dracula&hide_border=true&border_radius=8" alt="GitHub Streak" />
-  
-  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioS0ares&layout=compact&hide_border=true&theme=dracula&border_radius=8" alt="Top Languages" />
+<div align="center">
+  <a href="https://github.com/SergioS0ares">
+    <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SergioS0ares&theme=dracula&hide_border=true&border_radius=8" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/SergioS0ares">
+    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioS0ares&theme=dracula&hide_border=true&layout=donut&border_radius=8&langs_count=6" alt="Top Languages" />
+  </a>
 </div>
 
 <br>
