@@ -1,7 +1,10 @@
 name: Metrics
 on:
+  # Roda todo dia à meia-noite
   schedule: [{cron: "0 0 * * *"}]
+  # Permite rodar manualmente
   workflow_dispatch:
+  # Roda quando você mexe no main
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -12,14 +15,13 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # AQUI MUDOU: Agora usa seu token privado
+          filename: github-metrics.svg
+          # AQUI ESTÁ O SEGREDO: Usa o token que você criou
           token: ${{ secrets.METRICS_TOKEN }}
-          
+
           # Configurações para remover TUDO e deixar só as linguagens
-          user: SergioS0ares
-          template: classic
           base: ""
-          config_timezone: America/Sao_Paulo
+          config_order: languages
           
           # Configuração das Linguagens
           plugin_languages: yes
