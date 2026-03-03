@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Roda todo dia à meia-noite
   schedule: [{cron: "0 0 * * *"}]
-  # Permite rodar manualmente
   workflow_dispatch:
-  # Roda quando você mexe no main
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -16,10 +13,15 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
-          # AQUI ESTÁ O SEGREDO: Usa o token que você criou
+          
+          # --- CORREÇÃO AQUI ---
+          # Usa sua chave Mestra SÓ para ler os dados privados
           token: ${{ secrets.METRICS_TOKEN }}
+          # Usa a chave padrão do GitHub SÓ para salvar o arquivo (evita erros)
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          # ---------------------
 
-          # Configurações para remover TUDO e deixar só as linguagens
+          # Configurações para remover cabeçalho e focar em linguagens
           base: ""
           config_order: languages
           
