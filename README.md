@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=bd93f9,ff79c6&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=bd93f9,ff79c6&height=120&section=header"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/sergio-soares-eng/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+  </a>  
   <a href="mailto:sergiosoares0226@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
@@ -64,7 +64,7 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SergioS0ares&theme=dracula&hide_border=true&border_radius=8" alt="GitHub Streak" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioS0ares&theme=dracula&hide_border=true&layout=donut&card_width=380&border_radius=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioS0ares&theme=dracula&hide_border=true&layout=compact&card_width=380&border_radius=8" alt="Top Languages" />
 </div>
 
 <br>
@@ -80,4 +80,4 @@
 </div>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=bd93f9,ff79c6&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=bd93f9,ff79c6&height=120&section=footer"/>
