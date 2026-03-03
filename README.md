@@ -63,8 +63,8 @@
 <br>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SergioS0ares&theme=dracula&hide_border=true&border_radius=8" alt="GitHub Streak" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioS0ares&theme=dracula&hide_border=true&layout=compact&card_width=380&border_radius=8" alt="Top Languages" />
+  <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SergioS0ares&theme=dracula&hide_border=true&border_radius=8" alt="GitHub Streak" />
+  <img width="48%" align="center" src="https://metrics.lecoq.io/SergioS0ares?template=classic&base=0&languages=1&languages_limit=8&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
