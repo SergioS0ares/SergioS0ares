@@ -1,0 +1,36 @@
+name: Metrics
+on:
+  # Agenda para rodar todo dia à meia-noite
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite rodar manualmente clicando em um botão (para testar agora)
+  workflow_dispatch:
+  # Roda sempre que você fizer um push no branch main
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Seu token pessoal do GitHub (NÃO PRECISA CRIAR SE FOR SÓ PÚBLICO)
+          # Se tiver repos privados, precisará criar um token, mas tente sem primeiro.
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Opções
+          user: SergioS0ares
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          
+          # Módulo de linguagens (O que você quer!)
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: "github"
+          plugin_languages_threshold: 0%
