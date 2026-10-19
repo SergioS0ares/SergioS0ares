@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=bd93f9&size=30&center=true&vCenter=true&width=1000&lines=👋+Olá,+eu+sou+o+Sérgio!+/+Hi,+I'm+Sérgio!;Engenheiro+de+Software+%7C+Software+Engineer;Fullstack+Dev+(Java+%2B+Angular);Analista+de+Processos+Jr.;Criador+de+Mods+para+Minecraft" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=bd93f9&size=30&center=true&vCenter=true&width=1000&lines=??+Olá,+eu+sou+o+Sérgio!+/+Hi,+I'm+Sérgio!;Engenheiro+de+Software+%7C+Software+Engineer;Fullstack+Dev+(Java+%2B+Angular);Analista+de+Processos+Jr.;Criador+de+Mods+para+Minecraft" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,27 +19,27 @@
 
 <br>
 
-### 💫 Sobre Mim / About Me
+### ?? Sobre Mim / About Me
 
 <div align="left">
 
-- 🔭 **Atualmente trabalhando em / Currently working on:**
+- ?? **Atualmente trabalhando em / Currently working on:**
   > O desenvolvimento do **Macarola** (um SaaS privado para gestão de ateliês com IA/Gemini) e scripts de automação em Python (como o *Barber Sheet Generator*).
 
-- 👯 **Busco colaboração em / Looking to collaborate on:**
+- ?? **Busco colaboração em / Looking to collaborate on:**
   > Projetos inovadores que utilizem **Java (Spring Boot)** e **Angular**, especialmente aqueles focados em regras de negócio complexas.
 
-- 🌱 **Aprendendo agora / Currently learning:**
+- ?? **Aprendendo agora / Currently learning:**
   > Aprofundando em **Segurança de Aplicações** (Spring Security/JWT) e integração de **IA Generativa** (Gemini API) em sistemas corporativos.
 
-- ⚡ **Curiosidade / Fun fact:**
-  > Além de codar sistemas complexos, eu crio meus próprios addons e jukeboxes personalizadas no Minecraft nas horas vagas 🎮.
+- ? **Curiosidade / Fun fact:**
+  > Além de codar sistemas complexos, eu crio meus próprios addons e jukeboxes personalizadas no Minecraft nas horas vagas ??.
 
 </div>
 
 <br>
 
-### 🛠️ Tech Stack & Tools
+### ??? Tech Stack & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -54,7 +54,7 @@
 
 <br>
 
-### 📊 GitHub Analytics
+### ?? GitHub Analytics
 
 <div align="center">  
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SergioS0ares&bg_color=282a36&color=bd93f9&line=ff79c6&point=bd93f9&area=true&hide_border=true&border_radius=8" alt="Sérgio's Activity Graph" />
